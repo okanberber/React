@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+.menubar{
+  height: 50px;
+  line-height: 50px;
+  width: 100%;
+  margin: 0 auto;
+  background-color: silver;
+  letter-spacing: 1px;
+}
+.menubar a{
+color: black;
+text-decoration: none;
+margin-right: 20px;
+}
+.breadcrumb{
+  background-color: #efefef;
+  height: 50px;
+  line-height: 50px;
+  width: 100%;
+  margin: 0 auto;
+  text-align: left;
+}
+.breadcrumb ul{
+  list-style-type: none;
+}
+.breadcrumb ul li{
+color: silver;
+display: inline;
+padding: 15px 5px;
+}
+.breadcrumb ul li a{
+  color: silver;
+}
